@@ -1,7 +1,8 @@
 # Trabajo Práctico del Taller de Programación Avanzada
 
 ## Introducción
-Durante el taller desarrollaremos un juego: el clásico Bomberman ([Ejemplo](https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends))
+Durante el taller desarrollaremos un juego: el clásico Bomberman ([Ejemplo](https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends)).
+
 En las clases del taller se les proveerá de herramientas para poder realizarlo en Java, con las buenas prácticas que irán adquiriendo.
 
 
