@@ -8,10 +8,12 @@ En las clases del taller se les proveerá de herramientas para poder realizarlo 
 
 ### Metodología de trabajo
 La realización del juego, tendrá 4 etapas con sus respectivas entregas. Sus fechas serán:
-4  de Mayo
-1  de Junio
-22 de Junio
-13 de Julio
+
+* 4  de Mayo
+* 1  de Junio
+* 22 de Junio
+* 13 de Julio
+
 Cada una de las etapas tiene un mínimo de requisitos obligatorios para entregar.
 
 
