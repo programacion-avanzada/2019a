@@ -33,21 +33,21 @@ Cada una de las etapas tiene un mínimo de requisitos obligatorios para entregar
 
 La mecánica del juego es similar a la del clásico bomberman, pero con arquitectura cliente-servidor.
 * Una partida debe contar como mínimo con 2 bomberman (y soportar al menos 4)
-* Una partida debe contar con multiples rondas, cuyo límite es un puntaje a alcanzar
-* El puntaje se determina por la cantidad de victorias
-* El final de la ronda debe estar determinado por supervivencia y por un límite de tiempo
+* Una partida debe contar con multiples rondas
 * La partida finaliza cuando un bomberman haya llegado a un puntaje objetivo
+* El final de la ronda debe estar determinado por supervivencia y por un límite de tiempo
+* Al final de la ronda habrá como máximo un ganador, que recibirá 1 punto
 * El mapa se compone de un terreno de multiples pasillos (entorno)
 * El mapa contiene obstáculos en un porcentaje de su zona libre personalizado
 * La posición de los obstáculos es determinada al azar
 * Los bomberman solo se pueden desplazar hacia terreno libre, o atravesando a otro bomberman
-* El movimiento de los bomberman será de forma horizontal o vertical, pero no a través de saltos de `casillero`. El movimiento se tiene que sentir fluido
+* El movimiento de los bomberman será de forma horizontal o vertical, pero no a través de saltos de casillero. El movimiento se tiene que sentir fluido
 * La posición inicial de los bomberman puede ser estática o dinámica, pero el promedio de distancia de un bomberman hacia todos los demas debe ser el aproximadamente el mismo para todos los bomberman
-* Los bomberman pueden dejar una bomba, que solo se puede colocar en el centro de un `casillero` (Esto se puede hacer desplazando la bomba hacia al mismo, sólo permitiendo colocar bombas al estar encima de esa posición; o una mezcla de ambas)
+* Los bomberman pueden dejar una bomba, que solo se puede colocar en el centro de un casillero (Esto se puede hacer desplazando la bomba hacia al mismo, sólo permitiendo colocar bombas al estar encima de esa posición; o una mezcla de ambas)
 * Los bomberman cuentan con una cantidad limitada de bombas colocadas al mismo tiempo
 * Las bombas explotan después de unos instantes, o cuando son impactadas con otra explosión, eliminando a cualquier bomberman y obstaculo en su rango de efecto
 * El rango de efecto de las bombas se ve interrumpido o limitado por el entorno, los obstáculos y los bomberman
-* El rango de efecto debe ser como mínimo de 1 `casillero`, (el propio lugar, y uno más)
+* El rango de efecto debe ser como mínimo de 1 casillero, (el propio lugar, y uno más)
 
 
 
@@ -61,7 +61,7 @@ La mecánica del juego es similar a la del clásico bomberman, pero con arquitec
 
 Notas:
 > (*1) Una sala puede estar activa para que ingresen jugadores mientras un juego no esté activo en la misma. Aún así, debe aparecer en la lista de juegos como que el juego ya inició
->
+
 > (*2) La partida podrá ser iniciada por el creador de la sala, o cuando todos los jugadores estén listos, o cualquier otra condición que consideren
 
 
@@ -78,7 +78,7 @@ Los obstaculos, al ser destruidos, dejan power ups
 7. Como usuario quiero ver mi historial de partidas con sus detalles *(puntos, cantidad de obstaculos eliminados, asesinatos, muertes, etc; de cada bomberman)*
 8. Como usuario quiero ingresar a una partida, pero no participar, sino solo ver la partida, como un espectador, pudiendo ingresar y salir de la misma en cualquier momento
 9. Como usuario quiero obtener ventajas temporales sobre los otros jugadores, que se conseguiran al destruir obstaculos (aumentar la cantidad máxima de bombas a colocar a la vez, velocidad de desplazamiento, invulnerabilidad temporal, aumento del area de efecto de las bombas, vida extra, etc)
-11. Como usuario quiero disfrutar de buenos efectos de sonido y música mientras juego
+10. Como usuario quiero disfrutar de buenos efectos de sonido y música mientras juego
 
 > Aceptamos sugerencias de requisitos opcionales
 
