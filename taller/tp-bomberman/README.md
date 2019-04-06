@@ -10,8 +10,9 @@ En las clases del taller se les proveerá de herramientas para poder realizarlo 
 ### Metodología de trabajo
 La realización del juego, tendrá cuatro etapas con sus respectivas entregas:
 
-| 04/05 | Diagrama de clases del modelo del juego, implementado y testeado                                               |
+| Fecha | Contenido de la entrega                                               |
 |-------|----------------------------------------------------------------------------------------------------------------|
+| 04/05 | Diagrama de clases del modelo del juego, implementado y testeado                                               |
 | 01/06 | Posibilidad de interactuar con los elementos del juego en tiempo real en un entorno simulado, de forma gráfica |
 | 22/06 | Capacidad de ser jugado a través de cliente-servidor                                                           |
 | 13/07 | Requisitos extra acordados                                                                                     |
