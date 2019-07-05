@@ -67,18 +67,15 @@ Notas:
 
 Los obstaculos, al ser destruidos, dejan power ups
 
-1. Como usuario quiero crear salas privadas, en las cuales solo pueden ingresar los usuarios que deseo *(esto se puede hacer, por ejemplo, a través de contraseñas, o salas que sólo se pueda ingresar con invitación)*
-2. Como usuario quiero poder utilizar un joystick (todo lo necesario para que funcione debe estar en código propio java [no mapear joystick a teclas por ejemplo])
-3. Como usuario quiero poder jugar una partida de un solo jugar contra la AI, sin necesidad de ingresar usuario, ni crear salas
-4. Como usuario quiero enviar reacciones o mensajes predeterminados durante la partida
-5. Como usuario quiero elegir al momento de crear la sala un terreno donde ocurrirá el juego (tamaño, estilo, cantidad de obstáculos, etc)
-6. Como usuario quiero configurar los controles de mi personaje
-7. Como usuario quiero ver mi historial de partidas con sus detalles *(puntos, cantidad de obstáculos eliminados, asesinatos, muertes, etc; de cada bomberman)*
-8. Como usuario quiero ingresar a una partida, pero no participar, sino solo ver la partida, como un espectador, pudiendo ingresar y salir de la misma en cualquier momento
-9. Como usuario quiero obtener ventajas temporales sobre los otros jugadores, que se conseguirán al destruir obstáculos (aumentar la cantidad máxima de bombas a colocar a la vez, velocidad de desplazamiento, invulnerabilidad temporal, aumento del área de efecto de las bombas, vida extra, etc)
-10. Como usuario quiero disfrutar de buenos efectos de sonido y música mientras juego
+1. (10 pts.) Como usuario quiero crear salas privadas, en las cuales solo pueden ingresar los usuarios que deseo *(esto se puede hacer, por ejemplo, a través de contraseñas, o salas que sólo se pueda ingresar con invitación)*
+2. (5 pts.) Como usuario quiero poder utilizar un joystick (todo lo necesario para que funcione debe estar en código propio java [no mapear joystick a teclas por ejemplo])
+3. (20 pts.) Como usuario quiero poder jugar una partida de un solo jugar contra la AI, sin necesidad de ingresar usuario, ni crear salas
+4. (10 pts.) Como usuario quiero enviar reacciones o mensajes predeterminados durante la partida
+5. (10 pts.) Como usuario quiero elegir al momento de crear la sala un terreno donde ocurrirá el juego (tamaño, estilo, cantidad de obstáculos, etc)
+6. (5 pts.) Como usuario quiero configurar los controles de mi personaje
+7. (10/15 pts.) Como usuario quiero ver mi historial de partidas con sus detalles *(puntos, cantidad de obstáculos eliminados, asesinatos, muertes, etc; de cada bomberman)*
+8. (10 pts.) Como usuario quiero ingresar a una partida, pero no participar, sino solo ver la partida, como un espectador, pudiendo ingresar y salir de la misma en cualquier momento
+9. (10/15 pts.) Como usuario quiero obtener ventajas temporales sobre los otros jugadores, que se conseguirán al destruir obstáculos (aumentar la cantidad máxima de bombas a colocar a la vez, velocidad de desplazamiento, invulnerabilidad temporal, aumento del área de efecto de las bombas, vida extra, etc)
+10. (5 pts.) Como usuario quiero disfrutar de buenos efectos de sonido y música mientras juego
 
-> Aceptamos sugerencias de requisitos opcionales
-
-
-**Continuará...**
+> Aceptamos sugerencias de requisitos opcionales hasta el 6 de julio de 2019
